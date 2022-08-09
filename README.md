@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)]
+![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)
 <h1 align="center">Hi 👋, I'm Soumayadip Saha</h1>
 <h3 align="center">A passionate learner and tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
