@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://soumayadip2002.github.io/Personal-Portfolio/](https://soumayadip2002.github.io/Personal-Portfolio/)
-
-- 📝 I regularly write articles on [https://wanderwithcode.com/](https://wanderwithcode.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-soumayadip2002.vercel.app/]
+(https://portfolio-soumayadip2002.vercel.app/)
 
 - 📫 How to reach me **soumayadipsaha2002@gmail.com**
 
