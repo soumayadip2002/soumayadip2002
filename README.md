@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **soumayadipsaha2002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CB-UVuH8xB9nxiTwZHBCvcXbmIzoIn-G3rcHALI68KY/edit?usp=sharing](https://docs.google.com/document/d/1CB-UVuH8xB9nxiTwZHBCvcXbmIzoIn-G3rcHALI68KY/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1CB-UVuH8xB9nxiTwZHBCvcXbmIzoIn-G3rcHALI68KY/edit?usp=sharing](https://drive.google.com/file/d/1x9Z7pJM34SEMcq2UNRdTXD4igzbIsPKB/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny**
 
