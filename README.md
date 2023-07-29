@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-soumayadip2002.vercel.app/]
+- 👨‍💻 All of my projects are available at
 (https://portfolio-soumayadip2002.vercel.app/)
 
 - 📫 How to reach me **soumayadipsaha2002@gmail.com**
